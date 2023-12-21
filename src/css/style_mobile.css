@@ -113,9 +113,10 @@ body{
 
 
 .header {
-  background:  linear-gradient(transparent 80px, white),
-    url(src/images/bg-header-mobile.png) no-repeat top center;
-  padding-top: 6.2rem;
+  background: linear-gradient(transparent 80px, white) url(../images/bg-header-mobile.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 6.2rem;
 }
 .header__logo {
   display: block;
@@ -252,22 +253,7 @@ body{
   cursor: pointer;
 }
 
-
-@media screen and (max-width: 500px) {
-  .header {
-    background: linear-gradient(transparent 80px, white) url(src/images/bg-header-mobile.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-top: 6.2rem;
-  }
-}
 @media screen and (max-width: 750px) {
-  .header {
-    background: linear-gradient(transparent 80px, white) url(src/images/bg-header-mobile.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-top: 6.2rem;
-  }
   body{
     font-size: 18px;
   }
