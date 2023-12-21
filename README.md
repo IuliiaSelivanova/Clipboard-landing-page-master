@@ -32,8 +32,8 @@ Desktop version of the site:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/IuliiaSelivanova/Clipboard-landing-page-master.git))
+- Live Site URL: (https://iuliiaselivanova.github.io/Clipboard-landing-page-master/)
 
 ## My process
 
