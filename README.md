@@ -33,7 +33,7 @@ Desktop version of the site:
 ### Links
 
 - Solution URL: (https://github.com/IuliiaSelivanova/Clipboard-landing-page-master.git))
-- Live Site URL: (https://iuliiaselivanova.github.io/Clipboard-landing-page-master/)
+- Live Site URL: (https://iuliiaselivanova.github.io/Clipboard-landing-page/)
 
 ## My process
 
