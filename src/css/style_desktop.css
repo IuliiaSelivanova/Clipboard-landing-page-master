@@ -6,7 +6,7 @@
     max-width: 55%;
   }
   .header {
-    background: linear-gradient(transparent 80px, white) url(../images/bg-header-desktop.png);
+    background: linear-gradient(transparent 80px, white) url(bg-desktop.png);
     background-repeat: no-repeat;
     background-size: cover;
   }
