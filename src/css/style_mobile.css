@@ -113,7 +113,8 @@ body{
 
 
 .header {
-  background: linear-gradient(transparent 80px, white) url(bg-mobile.png);
+  background: linear-gradient(transparent 80px, white);
+  background-image: url(bg-mobile.png);
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 6.2rem;
